@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154074810796",
+    "project_id": "otp-authentication-135f6",
+    "storage_bucket": "otp-authentication-135f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154074810796:android:dc3d9d40e5b967e5c49209",
+        "android_client_info": {
+          "package_name": "com.example.flutter_otp_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezRF9pgQY_p4EeWiaxB82IXnwP02uDkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
